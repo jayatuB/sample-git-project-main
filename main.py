@@ -2,6 +2,7 @@
 
 def main():
     print("Hello, World!")
+    print("There are 2 files")
 
 if __name__ == "__main__":
     main()
